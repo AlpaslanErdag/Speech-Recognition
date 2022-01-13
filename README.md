@@ -3,7 +3,7 @@
 <tr>
 <td>
   
-### Project title: Analyzing Features effects on Classifying Emotion Detection from Human Voice
+### Project title: Analyzing Features Effects on Classifying Emotion Detection from Human Voice
 </td>
 </tr>
 </table>
