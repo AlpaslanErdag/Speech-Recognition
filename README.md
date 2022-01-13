@@ -1,14 +1,9 @@
 ### Alpaslan Erdag
-
-
 <table>
 <tr>
 <td>
   
 ### Project title: Analyzing Features effects on Classifying Emotion Detection from Human Voice
-### Student name: Alpaslan Erdag - MSc Machine Learning in Science - University of Nottingham
-### Student number: 20405820
-
 </td>
 </tr>
 </table>
